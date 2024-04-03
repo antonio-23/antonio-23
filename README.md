@@ -14,6 +14,6 @@ My name is Antoni and I am 23 years old. I am a junior front-end developer and c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-23&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=antonio-23&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=antonio-23&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
